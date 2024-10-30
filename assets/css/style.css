@@ -186,6 +186,16 @@ main {
 #times h3 {
     /* Override the heading colour set in general styles */
     color: #fafafa;
+    line-height: 1em;
+}
+
+/* Gallery page */
+#photos img {
+    width: 100%;
+}
+
+#photos {
+    line-height: 0;
 }
 
 /* Footer */
